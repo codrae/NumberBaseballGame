@@ -16,6 +16,8 @@ int main()
             game.judge();
             game.output();
             }
+
+            
     }
     
 
